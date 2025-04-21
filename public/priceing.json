@@ -1,11 +1,12 @@
 [
     {
       "name": "Basic",
-      "price": 29,
+      "prices": "$19/month",
       "currency": "USD",
       "billingCycle": "monthly",
       "info": "A great starting point for those new to fitness or looking for a simple routine.",
       "features": [
+        
         "Access to all gym equipment",
         "Locker room and showers",
         "Free Wi-Fi",
@@ -14,7 +15,7 @@
     },
     {
       "name": "Standard",
-      "price": 49,
+      "prices": "$49/month",
       "currency": "USD",
       "billingCycle": "monthly",
       "info": "Perfect for regulars who want classes and extra perks without the high cost.",
@@ -28,7 +29,7 @@
     },
     {
       "name": "Premium",
-      "price": 79,
+      "prices": "$609/month",
       "currency": "USD",
       "billingCycle": "monthly",
       "info": "All-inclusive plan for those who want personal training and full flexibility.",

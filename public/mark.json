@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Ayaan Rahman",
+      "marks": {
+        "bangla": 78,
+        "english": 85,
+        "math": 90
+      }
+    },
+    {
+      "name": "Maya Islam",
+      "marks": {
+        "bangla": 65,
+        "english": 70,
+        "math": 75
+      }
+    },
+    {
+      "name": "Rafiq Chowdhury",
+      "marks": {
+        "bangla": 88,
+        "english": 80,
+        "math": 95
+      }
+    },
+    {
+      "name": "Nadia Karim",
+      "marks": {
+        "bangla": 55,
+        "english": 60,
+        "math": 58
+      }
+    },
+    {
+      "name": "Tariq Hasan",
+      "marks": {
+        "bangla": 92,
+        "english": 88,
+        "math": 85
+      }
+    },
+    {
+      "name": "Lamia Akter",
+      "marks": {
+        "bangla": 74,
+        "english": 76,
+        "math": 82
+      }
+    },
+    {
+      "name": "Zayan Alam",
+      "marks": {
+        "bangla": 60,
+        "english": 65,
+        "math": 70
+      }
+    },
+    {
+      "name": "Farah Hossain",
+      "marks": {
+        "bangla": 81,
+        "english": 79,
+        "math": 88
+      }
+    },
+    {
+      "name": "Imran Kabir",
+      "marks": {
+        "bangla": 69,
+        "english": 72,
+        "math": 66
+      }
+    },
+    {
+      "name": "Sadia Nahar",
+      "marks": {
+        "bangla": 95,
+        "english": 90,
+        "math": 98
+      }
+    }
+  ]
+  
