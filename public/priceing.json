@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Basic",
+      "price": 29,
+      "currency": "USD",
+      "billingCycle": "monthly",
+      "info": "A great starting point for those new to fitness or looking for a simple routine.",
+      "features": [
+        "Access to all gym equipment",
+        "Locker room and showers",
+        "Free Wi-Fi",
+        "Open 6 AM – 10 PM"
+      ]
+    },
+    {
+      "name": "Standard",
+      "price": 49,
+      "currency": "USD",
+      "billingCycle": "monthly",
+      "info": "Perfect for regulars who want classes and extra perks without the high cost.",
+      "features": [
+        "Everything in Basic",
+        "Group fitness classes (yoga, HIIT, spinning)",
+        "Sauna & steam room access",
+        "2 guest passes/month",
+        "24/7 gym access"
+      ]
+    },
+    {
+      "name": "Premium",
+      "price": 79,
+      "currency": "USD",
+      "billingCycle": "monthly",
+      "info": "All-inclusive plan for those who want personal training and full flexibility.",
+      "features": [
+        "Everything in Standard",
+        "2 personal training sessions/month",
+        "Unlimited guest access",
+        "Nutrition & wellness consultations",
+        "Priority booking for classes",
+        "Free gym merchandise (1 item/month)"
+      ]
+    }
+  ]
+  

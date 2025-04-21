@@ -6,7 +6,7 @@ import NavBar from './cmp/NavBar/NavBar'
 function App() {
 
   return (
-    <>
+    < >
   <NavBar></NavBar>
       <DaisyNab></DaisyNab>
     
